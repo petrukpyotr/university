@@ -1,0 +1,2 @@
+serviceClass: org.example.GreetingService
+path: 558721AE53304454A8263A57B637052C.gwt.rpc

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example.lab4","c":"LocaleServlet","l":"doGet(HttpServletRequest, HttpServletResponse)","u":"doGet(jakarta.servlet.http.HttpServletRequest,jakarta.servlet.http.HttpServletResponse)"},{"p":"org.example.lab4","c":"LocaleServlet","l":"LocaleServlet()","u":"%3Cinit%3E()","k":"3"}];updateSearchResults();

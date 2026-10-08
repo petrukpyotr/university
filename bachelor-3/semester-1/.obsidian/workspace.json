@@ -11,21 +11,14 @@
             "id": "73cddac255b7666c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "university-kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "agenda.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "university-kanban"
+              "icon": "lucide-file",
+              "title": "agenda"
             }
           }
         ]
@@ -196,8 +189,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bf3080edc6eda2fe",
+  "active": "73cddac255b7666c",
   "lastOpenFiles": [
+    "university-kanban.md",
     "web-programming/web-programming.pdf",
     "metrology/metrology.pdf",
     "metrology/lab2-report.docx",
@@ -208,9 +202,7 @@
     "automata-theory/theory/Тема2_4.pdf",
     "automata-theory/theory/Тема2_3.pdf",
     "automata-theory/theory/Тема2_2.pdf",
-    "automata-theory/theory/Тема2_1.pdf",
     "agenda.md",
-    "university-kanban.md",
     "Untitled.canvas",
     "2026-10-08.md",
     "file:/Users/kyo/Downloads/Telegram Desktop/МУ.md",
